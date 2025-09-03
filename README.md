@@ -1,5 +1,5 @@
 # Trabalho-IPC02
-Simulação de Sistema Operacional Simplificado 🖥
+Simulação de Sistema Operacional Simplificado 
 
 Projeto acadêmico em linguagem C que simula um sistema operacional básico, com criação, execução e cancelamento de processos, além de gerenciamento de filas por prioridade. Desenvolvido para praticar estruturas de dados, pilhas, listas encadeadas e simulação de escalonamento.
 
