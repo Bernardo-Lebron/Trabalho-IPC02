@@ -50,4 +50,4 @@ Rodar no terminal:
 ./programa    # Linux/Mac
 programa.exe  # Windows
 
-<h4> Projeto desenvolvidos por Bernardo Lebron – Estudante de Engenharia de Computação (CEFET-MG). </h4> 
+<h4> Projeto desenvolvido por Bernardo Lebron – Estudante de Engenharia de Computação (CEFET-MG). </h4> 
